@@ -13,7 +13,7 @@
 
 ## 🚀 What I Do
 
-- 🎨 **UI/UX Design & Development:** Next.js, React, HTML, Sass, Tailwind CSS
+- 🎨 **UI/UX Design & Development:** Next.js, React, HTML, Sass, Tailwind CSS, Flutter
 - 🧩 **Component Architecture:** Reusable, scalable, maintainable
 - 🧪 **Testing & QA:** 95% code coverage, functional tests
 - ☁️ **Cloud Deployments:** CI/CD, performance optimization
