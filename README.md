@@ -68,8 +68,6 @@
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juanse-ochoa)
-- 📧 juansejunior10@gmail.com
-- 📱 +34 695 77 66 48
 
 ---
 
