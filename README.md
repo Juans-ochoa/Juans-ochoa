@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://avatars.githubusercontent.com/u/Juans-ochoa](https://avatars.githubusercontent.com/u/95383716?v=4)" width="120" style="border-radius:50%" alt="Juan Sebastian Ochoa"/>
+<img src="https://avatars.githubusercontent.com/u/95383716?s=400&u=bed39b4e381327662b4f05c71c5d71df1866b4b6&v=4" width="160" style="border-radius:50%" alt="Juan Sebastian Ochoa"/>
 
 # 👋 Hi, I'm **Juan Sebastian Ochoa**
 **Software Developer | Frontend Specialist | Team Leader**
